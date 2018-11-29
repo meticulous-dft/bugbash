@@ -1,1 +1,1 @@
-FROM hello-world:latest
+FROM hello-world:linux
